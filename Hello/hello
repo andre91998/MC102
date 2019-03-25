@@ -1,0 +1,9 @@
+//lab 00 mc102 andre medeiros ra194060
+
+#include <stdio.h>
+int main (int argc, char* argv[])
+{
+	int number1, number2, answer;
+	scanf("%d %d", &number1 &number2);
+	int answer = number1 + number2;
+
